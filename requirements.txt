@@ -1,0 +1,7 @@
+pyttsx3~=2.90
+requests~=2.26.0
+pydub~=0.25.1
+pyTelegramBotAPI~=4.2.2
+bs4~=0.0.1
+beautifulsoup4~=4.10.0
+COVID19Py~=0.3.0
